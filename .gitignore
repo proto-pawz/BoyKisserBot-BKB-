@@ -1,0 +1,10 @@
+node_modules/
+pnpm-lock.yaml
+
+# bot
+bot/commands/log.json
+bot/database/db.sqlite
+
+# env
+.env
+.env.*
